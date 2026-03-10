@@ -1,4 +1,4 @@
-# Insurance Pricing Pipeline (French MTPL Data)
+# Predicting Product Returns During Sales (LPP Dataset)
 
 ## Overview
 The goal of this project is to build a model that predicts the number of product returns per week during a sales campaign, based on historical data including discounts, sales, inventory levels, and product attributes.
